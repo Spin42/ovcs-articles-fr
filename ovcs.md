@@ -73,13 +73,9 @@ Au delà de ces changements nécessaires pour la modification, les trains avant 
 
 La voiture n'est pas encore sortie du garage, mais les roues tournent ! La plateforme qu'ils ont développée permet de tester la communication entre tous les composants et de faire tourner les roues lorsqu'on appuie sur la pédale d'accélération.
 
-<video width="320" height="240" controls>
-  <source src="./ovcs_wheel.mp4" type="video/mp4">
-</video>
+![Les roues tournent](./ovcs_wheel.mp4)
 
-<video width="320" height="240" controls>
-  <source src="./ovcs_dashboard.mp4" type="video/mp4">
-</video>
+![Le dashboard de la polo](./ovcs_dashboard.mp4)
 
 Plusieurs adaptations ont d'ailleurs été faites afin de rendre ce rétrofit le plus "naturel" possible:
 - La clé de la polo enclenche les relais permettant au moteur de tourner
