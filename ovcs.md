@@ -48,7 +48,7 @@ Les contrôleurs sont constitués de:
 
 Les firmware des rasbpberry sont développés sur une plateforme appelée [Nerves](https://nerves-project.org/) qui permet l'utilisation d'un langage de haut niveau, basé sur Erlang et appelé [Elixir](https://elixir-lang.org/).
 
-Elixir est un language particulièrement adapté à leur cas étant donné que celui-ci se base sur un concept de programmation appelé "pattern-matching", qui est idéal pour le traitement des messages envoyés en continu sur le bus de donnée CAN. Le code d'OVCS est disponible sur github: (lien).
+Elixir est un language particulièrement adapté à leur cas étant donné que celui-ci se base sur un concept de programmation appelé "pattern-matching", qui est idéal pour le traitement des messages envoyés en continu sur le bus de donnée CAN. Le code d'OVCS est disponible sur github: [OVCS](https://github.com/open-vehicle-control-system/ovcs).
 
 Enfin pour gérer la charge et la décharge de la batterie, ils se sont rabattus sur un BMS (Battery Management System) [Orion](https://www.orionbms.com/) configurable.
 
