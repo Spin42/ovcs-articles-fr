@@ -1,4 +1,4 @@
-### Retrofitting a polo and controlling it with raspberry pis and arduinos
+# Retrofitting a polo and controlling it with raspberry pis and arduinos
 
 In the makerverse, we often meet people with ideas that could be qualified as "crazy"... Loïc, Thibault and Marc probably fit in this category of people that spend their free time on unusual projects.
 
