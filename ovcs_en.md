@@ -83,6 +83,8 @@ For the battery, more modifications were made to the Polo. Three aluminum contai
 
 ![Batterie](./batterie.jpg)
 
+![Charging plug](./charging_plug.jpg)
+
 ### Additional changes
 
 Besides these changes, both drivetrains were renovated and the car was equipped with brand new disc brakes as well as new suspensions.
