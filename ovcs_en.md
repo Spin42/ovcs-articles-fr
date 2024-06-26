@@ -70,7 +70,7 @@ Two pieces have been custom made and some welding was necessary in order to fix 
 
 Thermal cars usually use the depression created from the engine to provide brake assistance. Since the engine was replaced by an electric motor, the brake system needed to be reviewed.
 
-It turns out EV use a specific type of brake booster that renders the old system obsolete. So they found a second hand Tesla Model 3 iBooster and put it in the car. They them proceeded to reverse engineer the can messages to be able to control braking from the CAN Bus.
+It turns out EV use a specific type of brake booster that renders the old system obsolete. So they found a second hand Tesla Model 3 iBooster and put it in the car. They then proceeded to reverse engineer the can messages to be able to control braking from the CAN Bus.
 
 ![iBooster](./ibooster.jpg)
 ![iBooster CAN](./ibooster_can.mp4)
